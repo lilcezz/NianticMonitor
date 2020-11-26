@@ -6,6 +6,7 @@ Node 12 ^
 
 cd NianticMonitor  
 npm install discord.js &&n npm install requests  
+copy/rename config.example.json to config.json edit your details
 node .  
 
 "Token" - your bots token  
