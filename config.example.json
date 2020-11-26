@@ -1,5 +1,5 @@
 {
-    "token": "YOURBOTSTOKEN",
-    "channel": "ChannelID",
-	  "timeout": "900000" 
+"token": "YOURBOTSTOKEN",
+"channel": "ChannelID",
+"timeout": "900000"
 }
